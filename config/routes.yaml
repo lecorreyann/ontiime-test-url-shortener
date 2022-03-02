@@ -1,7 +1,24 @@
 controllers:
-    resource: ../src/Controller/
-    type: annotation
+  resource: ../src/Controller/
+  type: annotation
 
 kernel:
-    resource: ../src/Kernel.php
-    type: annotation
+  resource: ../src/Kernel.php
+  type: annotation
+
+add_link:
+  path: /api/links
+  controller: App\Controller\LinkController::createLink
+  methods: POST
+list_links:
+  path: /api/links
+  controller: App\Controller\LinkController::listLink
+  methods: GET
+redirect:
+  path: /{short}
+  controller: App\Controller\RedirectController::start
+  methods: GET
+landing_page:
+  path: /
+  controller: App\Controller\LandingPageController::index
+  methods: GET
