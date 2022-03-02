@@ -1,4 +1,3 @@
-import { State } from '@popperjs/core';
 import * as React from 'react';
 
 interface ButtonShortenProps {
