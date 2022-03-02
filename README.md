@@ -18,7 +18,12 @@ Html, Css, Php, JS, Sql
 ## Frameworks utilisés
 - Symfony (avec entre autre le FOSRestBundle pour l'API)
 - ReactJS
-- Bootstrap (+couche UX/UI Webpixels)
+- Bootstrap (+couche UX/UI Webpixels) 
+
+## Environnement de développement 
+- NodeJS (CSS avec SASS, run watch ReactJS)
+- Symfony-CLI (symfony start:server)
+- MySQL
 
 ## Conclusion 
 
