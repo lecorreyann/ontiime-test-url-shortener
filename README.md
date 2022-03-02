@@ -4,7 +4,7 @@ HTML - CSS - PHP - JS - SQL
 
 Php : Symfony 6 (Bundle FOSRestBundle pour l'API)
 
-JS : ReactJS + Axios
+JS : ReactJS + Axios 
 
 Base de données : MySQL (relationnelle)
 
