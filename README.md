@@ -27,7 +27,7 @@ Html, Css, Php, JS, Sql
 
 ## Conclusion 
 
-Il y avait plein de manière d'arriver au même résultat. Je privilégie normalement les solutions les plus populaires, légères, sûres et les plus accessibles. Par exemple VueJS est plus léger ainsi que Laravel mais j'ai également voulu me challenger sur ce qui représente 8/10 voir 9/10 des demandes actuelle, c'est à dire la paire (Symfony/ReactJS) 
+Il y avait plein de manière d'arriver au même résultat. Je privilégie normalement les solutions les plus populaires, légères, sûres et les plus accessibles. Par exemple VueJS est plus léger ainsi que Laravel mais j'ai également voulu me challenger sur ce qui représente 8/10 voir 9/10 des demandes actuelle, c'est à dire la paire (Symfony/ReactJS). 
 
 Une remarque particulière (notamment pour bitly) en terme d'accessibilité, même si aujourd'hui tous les navigateurs ont javascript activé par défault, si on désactive le javascript la moitié du produit tombe à l'eau... mais l'ergonomie prime sur l'accessibilité apparemment!
 
